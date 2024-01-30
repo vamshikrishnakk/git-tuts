@@ -1,2 +1,1 @@
-print("vamshi");
-vamshiiiii
+count a=100
