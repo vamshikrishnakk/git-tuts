@@ -1,2 +1,1 @@
-print("vamshi");
-vamshiiiii
+var 2= 100,
